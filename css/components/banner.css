@@ -1,0 +1,29 @@
+.banner{
+  background-image: linear-gradient(-225deg, rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.2) 50% ), url(../../images/peace-man.jpeg);
+  color: white;
+  padding: 100px 20px;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  /*text-align: center;*/
+}
+
+.banner h1 {
+  font-size: 60px;
+}
+
+.banner h2 {
+  font-size: 40px;
+  font-weight: lighter;
+  color: white;
+  margin: 40px auto;
+}
+
+.banner p {
+  margin: 100px auto;
+  font-size: 22px;
+}
+
+#bn-events {
+  background-image: linear-gradient(-225deg, rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.2) 50% ), url(../../images/tanzania.jpeg);
+}

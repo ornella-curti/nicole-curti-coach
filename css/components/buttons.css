@@ -1,0 +1,45 @@
+.btn-blue{
+  background-color: #489FB5;
+  color: white;
+  text-align: center;
+  border-radius: 40px;
+  padding: 11px 20px;
+  font-family: 'Roboto', sans-serif;
+  margin: 0 auto;
+}
+
+.btn-blue:hover {
+  background-color: grey;
+  color: white;
+  /*transition: color 0.2s ease;*/
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+  text-align:center;
+}
+
+.list-inline li {
+  display: inline;
+  padding: 30px;
+  font-size: 50px;
+  color: #489FB5;
+}
+
+.list-inline i {
+  color: #489FB5;
+}
+
+.list-inline i:hover {
+  color: grey;
+}
+
+#coaching{
+  text-align: center;
+}
+
+.button-center{
+  text-align: center;
+  margin-top: 30px;
+}
